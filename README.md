@@ -1,4 +1,4 @@
-# Decimal
+# decimal.h
 Implementation of decimal.h library from C#. The library is developed in C language of C11 standard using gcc compiler.
 
 
